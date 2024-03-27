@@ -31,6 +31,7 @@ public class LoginController {
 		{
 			model.put("errorMsg","please enter correct Login and Password" );
 			return "login";
+			
 		}
 	}
 
